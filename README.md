@@ -3,9 +3,11 @@
 CE426 World Wide Web Technologies | UTH
 
  [Evangelos Stamos | University of Thessaly](http://inf-server.inf.uth.gr/~estamos)
+ 
+ - 🚫 Webpage is not accessible, since project is discontinued.
 
-## Note
-If the page is not loading probably the server is facing problems .
+## ⚠️ Note ⚠️
+### PROJECT DISCONTINUED ❌
 
 ## Info
 In this repo, it is provided the code to create a static HTML personal webpage on personal storage space hosted at [Server](https://support.e-ce.uth.gr/home_pages) of Department of Electrical and Computer Engineering | UTH .
